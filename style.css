@@ -193,3 +193,7 @@ p {
     text-transform: lowercase;
     padding: 40px;
 }
+
+footer {
+    text-align: center;
+}
