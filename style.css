@@ -196,4 +196,23 @@ p {
 
 footer {
     text-align: center;
+    background-image:
+        linear-gradient(to right,
+        rgba(204, 157, 238, 1), 
+        rgba(29, 5, 46, 1));
+    color: #777;
+    height: 60px;
+    padding: 15px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: red;
 }
