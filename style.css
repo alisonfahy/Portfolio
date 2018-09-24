@@ -116,11 +116,20 @@ body {
 
 .intro {
     color: black;
-    text-align: center;
+    text-align: left;
+}
+
+iframe {
+    float: right;
 }
 
 p {
     margin: 10px;
+}
+
+#projects {
+    padding-top: 80px;
+    text-align: center;
 }
 
 .crystal-image {
@@ -205,14 +214,14 @@ footer {
     padding: 15px;
 }
 
-/* a:link {
+.links:link {
     color: white;
 }
 
-a:visited {
+.links:visited {
     color: white;
 }
 
-a:hover {
+.links:hover {
     color: red;
-} */
+}
